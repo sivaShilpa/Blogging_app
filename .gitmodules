@@ -1,0 +1,6 @@
+[submodule "backend/Blogging_app_BE"]
+	path = backend/Blogging_app_BE
+	url = https://github.com/sivaShilpa/Blogging_app_BE.git
+[submodule "frontend/Blogging_app_FE"]
+	path = frontend/Blogging_app_FE
+	url = https://github.com/sivaShilpa/Blogging_app_FE.git
