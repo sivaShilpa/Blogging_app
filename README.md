@@ -14,8 +14,8 @@
 - React
 - Postman
 ### Getting Started
-[Deployed Link](https://main--myblogsblogging.netlify.app/)
-[Trello Board](https://trello.com/b/rHW1fU5a/bloggingapp)
+- [Deployed Link](https://main--myblogsblogging.netlify.app/)
+- [Trello Board](https://trello.com/b/rHW1fU5a/bloggingapp)
 ### Next Steps
 - Add sign up / login feature
 - Add Commenting Feature
