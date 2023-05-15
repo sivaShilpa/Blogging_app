@@ -23,4 +23,4 @@
 ### Special Thanks To:
 - My Instructors: **Joshua Smith**, **Zakariah O'Mara-Mezzano**, **Brian Krabec** 
 - My Teaching Assistant: **Rosanne Anderson**
-- My colleagues: **Adam Paczkowski, Anthony Scott, Katherine Sprague, Thomas Pettersen**
+- My colleagues: **Adam Paczkowski, Anthony Scott, Ciaran Kearney, Katherine Sprague, Thomas Pettersen, Sakima Stringer**
